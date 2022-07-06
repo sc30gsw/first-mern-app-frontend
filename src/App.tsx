@@ -1,5 +1,6 @@
 import React from "react";
+import { Home } from "./pages/home/Home";
 
 export const App = () => {
-	return <div className="App"></div>;
+	return <Home />;
 };
